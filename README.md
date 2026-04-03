@@ -1,0 +1,4 @@
+# Run app
+```
+make local
+```
